@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "JezykAngielski (Unpackaged)": {
+        "commandName": "Project"
+      },
+      "JezykAngielski (Package)": {
+        "commandName": "MsixPackage"
+      }
+    }
+}
