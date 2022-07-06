@@ -11,7 +11,6 @@
             Style="{ThemeResource BodyTextBlockStyle}">
             <TextBlock.Inlines>
                 <Run Text="Aplikacja zapozna cię z różnymi poziomami języka angielskiego "/><Run FontWeight="Bold" Text="Cambrige English"/><Run Text=" i pomoże w zapoznanu się z materiałem potrzebnym do napisania egzaminu językowego z danego poziomu.&#x0a;&#x0a;Certyfikaty Cambridge English uznawane są przez ponad 25 000 organizacji na całym świecie, wśród których znajdują się pracodawcy, uczelnie wyższe i instytucje rządowe. Z certyfikatem Cambridge English masz dostęp do najlepszych uczelni na świecie i zwiększasz swoje szansę na znalezienie lepszej pracy w Polsce i za granicą. W kraju certyfikaty Cambridge English uznają m.in. Ministerstwo Edukacji Narodowej, Ministerstwo Spraw Zagranicznych oraz Służba Cywilna, a także wielu pracodawców oraz liczne instytucje edukacyjne. Wiele uczelni wyższych zwalnia posiadaczy certyfikatów Cambridge English Qualifications z egzaminów zaliczeniowych lub lektoratów.&#x0a;&#x0a;&#x0a;"/><Run Text="Stworzono przez " /><Run FontWeight="Bold" Text="Marcina Abrahamczyk" /><Run Text=" na potrzeby projektu &quot;Śląskie. Inwestujemy w talenty - VI edycja&quot; II nabór." />
-                <!--<Run Text="&#x0a;"/>  Nowa Linia -->
             </TextBlock.Inlines>
         </TextBlock>
     </Grid>

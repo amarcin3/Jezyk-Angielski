@@ -33,8 +33,8 @@ public class SampleDataService : ISampleDataService
                     {
                         OrderID = 10643,
                         Company = "A1 Elementary (YLE)",
-                        Status = "Podstawowy", // poziom trudnosci
-                        ShipTo = "3-4 lat nauki", // najlepszy wiek do egzaminu
+                        Status = "Podstawowy",
+                        ShipTo = "3-4 lat nauki",
                         SymbolCode = 57602,
                         Note1 = Resource1._1Note1,
                         DescNote1 = Resource1._1DescNote1,

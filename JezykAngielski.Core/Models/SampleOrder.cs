@@ -33,14 +33,8 @@ public class SampleOrder
     {
         get; set;
     }
-
     public char Symbol => (char)SymbolCode;
-
-    public ICollection<SampleOrderDetail> Details
-    {
-        get; set;
-    }
-
+   
     // Tresc
 
     public string Note1
@@ -60,10 +54,4 @@ public class SampleOrder
     {
         get; set;
     }
-
-    //------
-
-    public string ShortDescription => $"Order ID: {OrderID}";
-
-    public override string ToString() => $"{Company} {Status}";
 }
