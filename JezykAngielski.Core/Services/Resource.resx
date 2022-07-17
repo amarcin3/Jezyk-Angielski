@@ -122,95 +122,143 @@
     <comment>A1 Elementary - Podpisy pod nagłówkiem 1</comment>
   </data>
   <data name="1DescNote2" xml:space="preserve">
-    <value />
+    <value>Potrafisz zrozumieć i używać często spotykanych wyrażeń i prostych zwrotów, przedstawić siebie i innych, zapytać się o dane osobowe, takie jak: imię, nazwisko, gdzie mieszka, co posiadają, kogo znają itp. Potrafisz się komunikować w prosty sposób, jeśli osoba z którą rozmawiasz mówi wolno i wyraźnie.</value>
     <comment>A1 Elementary - Podpisy pod Nagłówkiem 2</comment>
+  </data>
+  <data name="1DescNote3" xml:space="preserve">
+    <value />
+    <comment>A1 Elementary - Podpisy pod Nagłówkiem 3</comment>
   </data>
   <data name="1Note1" xml:space="preserve">
     <value>O A1 Elementary</value>
     <comment>A1 Elementary - Nagłówek 1</comment>
   </data>
   <data name="1Note2" xml:space="preserve">
-    <value />
+    <value>Umiejętności na poziomie A1</value>
     <comment>A1 Elementary - Nagłówek 2</comment>
+  </data>
+  <data name="1Note3" xml:space="preserve">
+    <value />
+    <comment>A1 Elementary - Nagłówek 3</comment>
   </data>
   <data name="2DescNote1" xml:space="preserve">
     <value>Egzamin A2 Key to pierwszy z serii egzaminów Cambridge English Qualifications dla dorosłych, który pokazuje, że znasz angielski na podstawowym poziomie. Egzamin A2 Key jest dla tych, którzy mają za sobą około 250 godzin nauki oraz znają angielski w mowie i piśmie na poziomie podstawowym. To pierwszy krok w budowaniu kompetencji językowych dla celów przyszłej kariery lub studiów.</value>
     <comment>A2 Key - Podpisy pod nagłówkiem 1</comment>
   </data>
   <data name="2DescNote2" xml:space="preserve">
-    <value />
+    <value>Potrafisz zrozumieć podstawowe wyrażenia i zwroty językowe, pisać krótkie i proste notatki lub wiadomości i listy prywatne, w prosty sposób opisać swoją rodzinę, innych ludzi, warunki życia, swoje wykrztałcenie, swoją obecną i poprzednią pracę, radzić sobie w bardzo krótkich rozmowach towarzyskich.</value>
     <comment>A2 Key - Podpisy pod nagłówkiem 2</comment>
+  </data>
+  <data name="2DescNote3" xml:space="preserve">
+    <value />
+    <comment>A2 Key - Podpisy pod nagłówkiem 3</comment>
   </data>
   <data name="2Note1" xml:space="preserve">
     <value>O A2 Key</value>
     <comment>A2 Key -  Nagłówek 1</comment>
   </data>
   <data name="2Note2" xml:space="preserve">
-    <value />
+    <value>Umiejętności na poziomie A2</value>
     <comment>A2 Key - Nagłówek 2</comment>
+  </data>
+  <data name="2Note3" xml:space="preserve">
+    <value />
+    <comment>A2 Key - Nagłówek 3</comment>
   </data>
   <data name="3DescNote1" xml:space="preserve">
     <value>Certyfikat B1 Preliminary pokazuje, że znasz podstawy języka angielskiego i posiadasz praktyczne umiejętności językowe pozwalające komunikować się w codziennych sytuacjach. Podczas przygotowań do egzaminu cały czas uczysz się praktycznego języka i rozwijasz swoje umiejętności językowe</value>
     <comment>B1 Preliminary - Podpisy pod nagłówkiem 1</comment>
   </data>
   <data name="3DescNote2" xml:space="preserve">
-    <value />
+    <value>Potrafisz czytać proste teksty pisane i artykóły w języku angielskim, pisać listy i e-maile na codzienne tematy, prowadzić notatki, wyrażać proste opinie i nastroje w mowie i piśmie w języku angielskim.</value>
     <comment>B1 Preliminary - Podpisy pod nagłówkiem 2</comment>
+  </data>
+  <data name="3DescNote3" xml:space="preserve">
+    <value />
+    <comment>B1 Preliminary - Podpisy pod nagłówkiem 3</comment>
   </data>
   <data name="3Note1" xml:space="preserve">
     <value>O B1 Preliminary</value>
     <comment>B1 Preliminary - Nagłówek 1</comment>
   </data>
   <data name="3Note2" xml:space="preserve">
-    <value />
+    <value>Umiejętności na poziomie B1</value>
     <comment>B1 Preliminary - Nagłówek 2</comment>
+  </data>
+  <data name="3Note3" xml:space="preserve">
+    <value />
+    <comment>B1 Preliminary - Nagłówek 3</comment>
   </data>
   <data name="4DescNote1" xml:space="preserve">
     <value>Certyfikat B2 First potwierdza, że potrafisz posługiwać się używanym na co dzień praktycznym językiem angielskim potrzebnym w pracy lub w nauce. Co roku tysiące osób pragnących poprawić szanse znalezienia pracy i przyjęcia na uczelnię przystępuje do egzaminu B2 First.</value>
     <comment>B2 First - Podpisy pod nagłówkiem 1</comment>
   </data>
   <data name="4DescNote2" xml:space="preserve">
-    <value />
+    <value>Potrafisz prowadzić rozmowy w języku angielskim, wyrażając swoje opinie i przezentując różne argumenty, śledzić wiadomości i informacje dotyczące codziennych tematów, pisać w języku angielskim, przedstawiając plusy i minusy różnych punktów widzenia danej sytuacji, uczestniczyć w programach wymiany międzynarodowej między szkołami lub uczelniami, pisać listy, raporty, opowiadania i stosować inne rodzaje wypowiedzi pisemniej, przeprowadzić prezentację w języku angielskim na znane tematy z życia codziennego.</value>
     <comment>B2 First - Podpisy pod nagłówkiem 2</comment>
+  </data>
+  <data name="4DescNote3" xml:space="preserve">
+    <value />
+    <comment>B2 First - Podpisy pod nagłówkiem 3</comment>
   </data>
   <data name="4Note1" xml:space="preserve">
     <value>O B2 First</value>
     <comment>B2 First - Nagłówek 1</comment>
   </data>
   <data name="4Note2" xml:space="preserve">
-    <value />
+    <value>Umiejętności na poziomie B2</value>
     <comment>B2 First - Nagłówek 2</comment>
+  </data>
+  <data name="4Note3" xml:space="preserve">
+    <value />
+    <comment>B2 First - Nagłówek 3</comment>
   </data>
   <data name="5DescNote1" xml:space="preserve">
     <value>Ponad 6000 instytucji edukacyjnych, firm i instytucji państwowych na całym świecie uznaje C1 Advanced za potwierdzenie wysoce zaawansowanego poziomu znajomości języka. Przygotowanie do egzaminu C1 Advanced pomaga rozwinąć umiejętności pozwalające czerpać maksymalne korzyści z nauki, pracy oraz życia w krajach anglojęzycznych.</value>
     <comment>C1 Advanced - Podpisy pod nagłówkiem 1</comment>
   </data>
   <data name="5DescNote2" xml:space="preserve">
-    <value />
+    <value>Potrafisz studiować w języku angielskim w kraju lub za granicą, efektywnie komunikować się na zaawansowanym poziomie językowym w sytuacjach codziennych, a także w trakcie dyskusji podczas studiów odbywanych w języku angielskim, pracować w środowisku anglojęzycznym, w pełni brać udział w konferencjach, spotkaniach biznesowych i seminariach akademickich, przeprowadzanych w języku angielskim, pisać eseje wyrażające różne punkty widzenia, używając także pojęć astrakcyjnych, śledzić wiadomości i informacje, a także czytać artykuły i rozprawki poruszające tematy naukowe lub eksperckie.</value>
     <comment>C1 Advanced - Podpisy pod nagłówkiem 2</comment>
+  </data>
+  <data name="5DescNote3" xml:space="preserve">
+    <value />
+    <comment>C1 Advanced - Podpisy pod nagłówkiem 3</comment>
   </data>
   <data name="5Note1" xml:space="preserve">
     <value>O C1 Advanced:</value>
     <comment>C1 Advanced - Nagłówek 1</comment>
   </data>
   <data name="5Note2" xml:space="preserve">
-    <value />
+    <value>Umiejętności na poziomie C1</value>
     <comment>C1 Advanced - Nagłówek 2</comment>
+  </data>
+  <data name="5Note3" xml:space="preserve">
+    <value />
+    <comment>C1 Advanced - Nagłówek 3</comment>
   </data>
   <data name="6DescNote1" xml:space="preserve">
     <value>C2 Proficiency to certyfikat, który jest uznawany jako potwierdzenie znajomości języka angielskiego na poziomie zaawansowania zbliżonym do poziomu rodzimych użytkowników języka przez tysiące wiodących firm i instytucji edukacyjnych na świecie. Przygotowanie się i zdanie egzaminu C2 Proficiency oznacza, że możesz studiować i pracować posługując się językiem angielskim na najwyższym poziomie zaawansowania, na przykład, podczas zagranicznych studiów podyplomowych.</value>
     <comment>C2 Proficiency - Podpisy pod nagłówkiem 1</comment>
   </data>
   <data name="6DescNote2" xml:space="preserve">
-    <value />
+    <value>Potrafisz studiować w języku angielskim na najwyższym poziomie zaawansowania, na przykłąd, podczas studiów podyplomowych czy doktorackich, prowadzić negocjacje biznesowe na poziomie menedżerskim w międzynarodowych kontekstach biznesowych, rozumieć złożone aspekty wielorakich form pisarskich, prowadzić rozmowy wymagające użycia języka obcego na poziomie abstrakcyjnym i emocjonalnym.</value>
     <comment>C2 Proficiency - Podpisy pod nagłówkiem 2</comment>
+  </data>
+  <data name="6DescNote3" xml:space="preserve">
+    <value />
+    <comment>C2 Proficiency - Podpisy pod nagłówkiem 3</comment>
   </data>
   <data name="6Note1" xml:space="preserve">
     <value>O C2 Proficiency:</value>
     <comment>C2 Proficiency - Nagłówek 1</comment>
   </data>
   <data name="6Note2" xml:space="preserve">
-    <value />
+    <value>Umiejętności na poziomie C2</value>
     <comment>C2 Proficiency  - Nagłówek 2</comment>
+  </data>
+  <data name="6Note3" xml:space="preserve">
+    <value />
+    <comment>C2 Proficiency  - Nagłówek 3</comment>
   </data>
 </root>

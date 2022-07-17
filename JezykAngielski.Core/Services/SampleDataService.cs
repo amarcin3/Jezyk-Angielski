@@ -36,10 +36,12 @@ public class SampleDataService : ISampleDataService
                         Status = "Podstawowy",
                         ShipTo = "3-4 lat nauki",
                         SymbolCode = 57602,
-                        Note1 = Resource1._1Note1,
-                        DescNote1 = Resource1._1DescNote1,
-                        Note2 = Resource1._1Note2,
-                        DescNote2 = Resource1._1DescNote2
+                        Note1 = Resource._1Note1,
+                        DescNote1 = Resource._1DescNote1,
+                        Note2 = Resource._1Note2,
+                        DescNote2 = Resource._1DescNote2,
+                        Note3 = Resource._1Note3,
+                        DescNote3 = Resource._1DescNote3
                     },
                     new SampleOrder()
                     {
@@ -48,10 +50,12 @@ public class SampleDataService : ISampleDataService
                         Status = "Podstawowy",
                         ShipTo = "5-6 lat nauki",
                         SymbolCode = 57634,
-                        Note1 = Resource1._2Note1,
-                        DescNote1 = Resource1._2DescNote1,
-                        Note2 = Resource1._2Note2,
-                        DescNote2 = Resource1._2DescNote2
+                        Note1 = Resource._2Note1,
+                        DescNote1 = Resource._2DescNote1,
+                        Note2 = Resource._2Note2,
+                        DescNote2 = Resource._2DescNote2,
+                        Note3 = Resource._2Note3,
+                        DescNote3 = Resource._2DescNote3
                     },
                     new SampleOrder()
                     {
@@ -60,10 +64,12 @@ public class SampleDataService : ISampleDataService
                         Status = "Ponadpodstawowy",
                         ShipTo = "7-8 lat nauki",
                         SymbolCode = 57625,
-                        Note1 = Resource1._3Note1,
-                        DescNote1 = Resource1._3DescNote1,
-                        Note2 = Resource1._3Note2,
-                        DescNote2 = Resource1._3DescNote2
+                        Note1 = Resource._3Note1,
+                        DescNote1 = Resource._3DescNote1,
+                        Note2 = Resource._3Note2,
+                        DescNote2 = Resource._3DescNote2,
+                        Note3 = Resource._3Note3,
+                        DescNote3 = Resource._3DescNote3
                     },
                     new SampleOrder()
                     {
@@ -72,10 +78,12 @@ public class SampleDataService : ISampleDataService
                         Status = "Średnio zaawansowany",
                         ShipTo = "9-10 lat nauki",
                         SymbolCode = 57833,
-                        Note1 = Resource1._4Note1,
-                        DescNote1 = Resource1._4DescNote1,
-                        Note2 = Resource1._4Note2,
-                        DescNote2 = Resource1._4DescNote2
+                        Note1 = Resource._4Note1,
+                        DescNote1 = Resource._4DescNote1,
+                        Note2 = Resource._4Note2,
+                        DescNote2 = Resource._4DescNote2,
+                        Note3 = Resource._4Note3,
+                        DescNote3 = Resource._4DescNote3
                     },
                     new SampleOrder()
                     {
@@ -84,10 +92,12 @@ public class SampleDataService : ISampleDataService
                         Status = "Zaawansowany",
                         ShipTo = "11-12 lat nauki",
                         SymbolCode = 57668,
-                        Note1 = Resource1._5Note1,
-                        DescNote1 = Resource1._5DescNote1,
-                        Note2 = Resource1._5Note2,
-                        DescNote2 = Resource1._5DescNote2
+                        Note1 = Resource._5Note1,
+                        DescNote1 = Resource._5DescNote1,
+                        Note2 = Resource._5Note2,
+                        DescNote2 = Resource._5DescNote2,
+                        Note3 = Resource._5Note3,
+                        DescNote3 = Resource._5DescNote3
                     },
                     new SampleOrder()
                     {
@@ -96,10 +106,12 @@ public class SampleDataService : ISampleDataService
                         Status = "Biegły",
                         ShipTo = "13-15 lat nauki",
                         SymbolCode = 57643,
-                        Note1 = Resource1._6Note1,
-                        DescNote1 = Resource1._6DescNote1,
-                        Note2 = Resource1._6Note2,
-                        DescNote2 = Resource1._6DescNote2
+                        Note1 = Resource._6Note1,
+                        DescNote1 = Resource._6DescNote1,
+                        Note2 = Resource._6Note2,
+                        DescNote2 = Resource._6DescNote2,
+                        Note3 = Resource._6Note3,
+                        DescNote3 = Resource._6DescNote3
                     },
                 }
             }

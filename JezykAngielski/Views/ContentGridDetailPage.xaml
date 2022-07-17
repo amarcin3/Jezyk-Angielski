@@ -88,6 +88,14 @@
                     Margin="{StaticResource MediumBottomMargin}"
                     Style="{ThemeResource BodyTextBlockStyle}"
                     Text="{x:Bind ViewModel.Item.DescNote2}" />
+
+                <TextBlock
+                    Margin="{StaticResource SmallTopMargin}"
+                    Style="{ThemeResource SubtitleTextBlockStyle}"
+                    Text="{x:Bind ViewModel.Item.Note3}" />
+                <TextBlock
+                    Style="{ThemeResource BodyTextBlockStyle}"
+                    Text="{x:Bind ViewModel.Item.DescNote3}" />
             </StackPanel>
         </ScrollViewer>
     </Grid>

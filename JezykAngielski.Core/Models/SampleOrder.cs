@@ -54,4 +54,13 @@ public class SampleOrder
     {
         get; set;
     }
+    //------
+    public string Note3
+    {
+        get; set;
+    }
+    public string DescNote3
+    {
+        get; set;
+    }
 }

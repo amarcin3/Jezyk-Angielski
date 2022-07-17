@@ -22,14 +22,14 @@ namespace JezykAngielski.Core.Services {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class Resource1 {
+    internal class Resource {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
         private static global::System.Globalization.CultureInfo resourceCulture;
         
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
-        internal Resource1() {
+        internal Resource() {
         }
         
         /// <summary>
@@ -39,7 +39,7 @@ namespace JezykAngielski.Core.Services {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("JezykAngielski.Core.Services.Resource1", typeof(Resource1).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("JezykAngielski.Core.Services.Resource", typeof(Resource).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -70,11 +70,20 @@ namespace JezykAngielski.Core.Services {
         }
         
         /// <summary>
-        /// Wyszukuje zlokalizowany ciąg podobny do ciągu .
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Potrafisz zrozumieć i używać często spotykanych wyrażeń i prostych zwrotów, przedstawić siebie i innych, zapytać się o dane osobowe, takie jak: imię, nazwisko, gdzie mieszka, co posiadają, kogo znają itp. Potrafisz się komunikować w prosty sposób, jeśli osoba z którą rozmawiasz mówi wolno i wyraźnie..
         /// </summary>
         internal static string _1DescNote2 {
             get {
                 return ResourceManager.GetString("1DescNote2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu .
+        /// </summary>
+        internal static string _1DescNote3 {
+            get {
+                return ResourceManager.GetString("1DescNote3", resourceCulture);
             }
         }
         
@@ -88,11 +97,20 @@ namespace JezykAngielski.Core.Services {
         }
         
         /// <summary>
-        /// Wyszukuje zlokalizowany ciąg podobny do ciągu .
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Umiejętności na poziomie A1.
         /// </summary>
         internal static string _1Note2 {
             get {
                 return ResourceManager.GetString("1Note2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu .
+        /// </summary>
+        internal static string _1Note3 {
+            get {
+                return ResourceManager.GetString("1Note3", resourceCulture);
             }
         }
         
@@ -106,11 +124,20 @@ namespace JezykAngielski.Core.Services {
         }
         
         /// <summary>
-        /// Wyszukuje zlokalizowany ciąg podobny do ciągu .
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Potrafisz zrozumieć podstawowe wyrażenia i zwroty językowe, pisać krótkie i proste notatki lub wiadomości i listy prywatne, w prosty sposób opisać swoją rodzinę, innych ludzi, warunki życia, swoje wykrztałcenie, swoją obecną i poprzednią pracę, radzić sobie w bardzo krótkich rozmowach towarzyskich..
         /// </summary>
         internal static string _2DescNote2 {
             get {
                 return ResourceManager.GetString("2DescNote2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu .
+        /// </summary>
+        internal static string _2DescNote3 {
+            get {
+                return ResourceManager.GetString("2DescNote3", resourceCulture);
             }
         }
         
@@ -124,11 +151,20 @@ namespace JezykAngielski.Core.Services {
         }
         
         /// <summary>
-        /// Wyszukuje zlokalizowany ciąg podobny do ciągu .
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Umiejętności na poziomie A2.
         /// </summary>
         internal static string _2Note2 {
             get {
                 return ResourceManager.GetString("2Note2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu .
+        /// </summary>
+        internal static string _2Note3 {
+            get {
+                return ResourceManager.GetString("2Note3", resourceCulture);
             }
         }
         
@@ -142,11 +178,20 @@ namespace JezykAngielski.Core.Services {
         }
         
         /// <summary>
-        /// Wyszukuje zlokalizowany ciąg podobny do ciągu .
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Potrafisz czytać proste teksty pisane i artykóły w języku angielskim, pisać listy i e-maile na codzienne tematy, prowadzić notatki, wyrażać proste opinie i nastroje w mowie i piśmie w języku angielskim..
         /// </summary>
         internal static string _3DescNote2 {
             get {
                 return ResourceManager.GetString("3DescNote2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu .
+        /// </summary>
+        internal static string _3DescNote3 {
+            get {
+                return ResourceManager.GetString("3DescNote3", resourceCulture);
             }
         }
         
@@ -160,11 +205,20 @@ namespace JezykAngielski.Core.Services {
         }
         
         /// <summary>
-        /// Wyszukuje zlokalizowany ciąg podobny do ciągu .
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Umiejętności na poziomie B1.
         /// </summary>
         internal static string _3Note2 {
             get {
                 return ResourceManager.GetString("3Note2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu .
+        /// </summary>
+        internal static string _3Note3 {
+            get {
+                return ResourceManager.GetString("3Note3", resourceCulture);
             }
         }
         
@@ -178,11 +232,20 @@ namespace JezykAngielski.Core.Services {
         }
         
         /// <summary>
-        /// Wyszukuje zlokalizowany ciąg podobny do ciągu .
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Potrafisz prowadzić rozmowy w języku angielskim, wyrażając swoje opinie i przezentując różne argumenty, śledzić wiadomości i informacje dotyczące codziennych tematów, pisać w języku angielskim, przedstawiając plusy i minusy różnych punktów widzenia danej sytuacji, uczestniczyć w programach wymiany międzynarodowej między szkołami lub uczelniami, pisać listy, raporty, opowiadania i stosować inne rodzaje wypowiedzi pisemniej, przeprowadzić prezentację w języku angielskim na znane tematy z życia codziennego..
         /// </summary>
         internal static string _4DescNote2 {
             get {
                 return ResourceManager.GetString("4DescNote2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu .
+        /// </summary>
+        internal static string _4DescNote3 {
+            get {
+                return ResourceManager.GetString("4DescNote3", resourceCulture);
             }
         }
         
@@ -196,11 +259,20 @@ namespace JezykAngielski.Core.Services {
         }
         
         /// <summary>
-        /// Wyszukuje zlokalizowany ciąg podobny do ciągu .
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Umiejętności na poziomie B2.
         /// </summary>
         internal static string _4Note2 {
             get {
                 return ResourceManager.GetString("4Note2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu .
+        /// </summary>
+        internal static string _4Note3 {
+            get {
+                return ResourceManager.GetString("4Note3", resourceCulture);
             }
         }
         
@@ -214,11 +286,20 @@ namespace JezykAngielski.Core.Services {
         }
         
         /// <summary>
-        /// Wyszukuje zlokalizowany ciąg podobny do ciągu .
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Potrafisz studiować w języku angielskim w kraju lub za granicą, efektywnie komunikować się na zaawansowanym poziomie językowym w sytuacjach codziennych, a także w trakcie dyskusji podczas studiów odbywanych w języku angielskim, pracować w środowisku anglojęzycznym, w pełni brać udział w konferencjach, spotkaniach biznesowych i seminariach akademickich, przeprowadzanych w języku angielskim, pisać eseje wyrażające różne punkty widzenia, używając także pojęć astrakcyjnych, śledzić wiadomości i informacje, a ta [obcięto pozostałą część ciągu]&quot;;.
         /// </summary>
         internal static string _5DescNote2 {
             get {
                 return ResourceManager.GetString("5DescNote2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu .
+        /// </summary>
+        internal static string _5DescNote3 {
+            get {
+                return ResourceManager.GetString("5DescNote3", resourceCulture);
             }
         }
         
@@ -232,11 +313,20 @@ namespace JezykAngielski.Core.Services {
         }
         
         /// <summary>
-        /// Wyszukuje zlokalizowany ciąg podobny do ciągu .
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Umiejętności na poziomie C1.
         /// </summary>
         internal static string _5Note2 {
             get {
                 return ResourceManager.GetString("5Note2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu .
+        /// </summary>
+        internal static string _5Note3 {
+            get {
+                return ResourceManager.GetString("5Note3", resourceCulture);
             }
         }
         
@@ -250,11 +340,20 @@ namespace JezykAngielski.Core.Services {
         }
         
         /// <summary>
-        /// Wyszukuje zlokalizowany ciąg podobny do ciągu .
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Potrafisz studiować w języku angielskim na najwyższym poziomie zaawansowania, na przykłąd, podczas studiów podyplomowych czy doktorackich, prowadzić negocjacje biznesowe na poziomie menedżerskim w międzynarodowych kontekstach biznesowych, rozumieć złożone aspekty wielorakich form pisarskich, prowadzić rozmowy wymagające użycia języka obcego na poziomie abstrakcyjnym i emocjonalnym..
         /// </summary>
         internal static string _6DescNote2 {
             get {
                 return ResourceManager.GetString("6DescNote2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu .
+        /// </summary>
+        internal static string _6DescNote3 {
+            get {
+                return ResourceManager.GetString("6DescNote3", resourceCulture);
             }
         }
         
@@ -268,11 +367,20 @@ namespace JezykAngielski.Core.Services {
         }
         
         /// <summary>
-        /// Wyszukuje zlokalizowany ciąg podobny do ciągu .
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Umiejętności na poziomie C2.
         /// </summary>
         internal static string _6Note2 {
             get {
                 return ResourceManager.GetString("6Note2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu .
+        /// </summary>
+        internal static string _6Note3 {
+            get {
+                return ResourceManager.GetString("6Note3", resourceCulture);
             }
         }
     }
