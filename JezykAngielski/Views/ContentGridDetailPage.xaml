@@ -85,7 +85,6 @@
                     Style="{ThemeResource SubtitleTextBlockStyle}"
                     Text="{x:Bind ViewModel.Item.Note2}" />
                 <TextBlock
-                    Margin="{StaticResource MediumBottomMargin}"
                     Style="{ThemeResource BodyTextBlockStyle}"
                     Text="{x:Bind ViewModel.Item.DescNote2}" />
 
