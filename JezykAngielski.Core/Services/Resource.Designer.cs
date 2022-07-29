@@ -79,7 +79,12 @@ namespace JezykAngielski.Core.Services {
         }
         
         /// <summary>
-        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Egzamin A1 składa się z trzech części, słuchania, gdzie należy, w zależności od polecenia, połączyć odpowiedznie teksty z obrazkami, uzupełniać proste zdania lub wybierać pasujący obrazek; czytania połączonego z pisaniem, gdzie w zależności od polecenia można, uzupełniać proste zdania z pomocą obrazków, wybrać odpowiednią odpowiedź do pytania, uzupełnić historyjkę z pomocą obrazków i wybrać najlepszy do niej tytuł, uzupełnić tekst podanymi słowami, na podstawie historyjki uzupełnić zdania lub na podstawie o [obcięto pozostałą część ciągu]&quot;;.
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Egzamin A1 składa się z trzech części:
+        ///Słuchania, gdzie należy, w zależności od polecenia, połączyć odpowiedznie teksty z obrazkami, uzupełniać proste zdania lub wybierać pasujący obrazek.
+        ///
+        ///Czytania połączonego z pisaniem, gdzie należy, uzupełniać luki w prostych zdaniach, wybrać odpowiednią odpowiedź do pytania, uzupełnić historyjkę i wybrać najlepszy do niej tytuł, uzupełnić tekst podanymi słowami lub uzupełnić zdania na podstawie tekstu.
+        ///
+        ///Mówienia, podczas którego należy się przedstawić, odpowiadać  [obcięto pozostałą część ciągu]&quot;;.
         /// </summary>
         internal static string _1DescNote3 {
             get {
@@ -133,7 +138,12 @@ namespace JezykAngielski.Core.Services {
         }
         
         /// <summary>
-        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Egzamin A2 składa się z trzech części, słuchania, gdzie należy, w zależności od polecenia, połączyć odpowiedznie teksty z obrazkami, uzupełniać proste zdania lub wybierać pasujący obrazek; czytania połączonego z pisaniem, gdzie w zależności od polecenia można, uzupełniać proste zdania z pomocą podanych wyrazów, wybierać odpowiedzi do pytań, uzupełniać historyjkę z pomocą podanych słów, i wybrać najlepszy do niej tytuł, uzupełnić tekst podanymi słowami, na podstawie historyjki uzupełnić proste zdania lub nap [obcięto pozostałą część ciągu]&quot;;.
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Egzamin A2 składa się z trzech części:
+        ///Słuchania, gdzie należy, połączyć odpowiedznie teksty z obrazkami, uzupełniać proste zdania lub wybierać pasujący obrazek.
+        ///
+        ///Czytania połączonego z pisaniem, gdzie należy uzupełniać proste zdania z pomocą podanych wyrazów, wybierać odpowiedzi do pytań, uzupełniać tekst podanymi słowami, na podstawie historyjki uzupełnić proste zdania i napisać krótką historyjkę na podstawie obrazków.
+        ///
+        ///Mówienia, podczas którego należy się przedstawić, odpowiadać na pytania dotyczące [obcięto pozostałą część ciągu]&quot;;.
         /// </summary>
         internal static string _2DescNote3 {
             get {
@@ -187,7 +197,14 @@ namespace JezykAngielski.Core.Services {
         }
         
         /// <summary>
-        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Egzamin B1 składa się z czterech części, słuchania, gdzie są odpowiedzi wielokrotnego wyboru i wypełnianie przerw w tekstach; czytania, gdzie są odpowiedzi wielokrotnego wyboru, łączenie opisów, uzpełnianie przerw w tekście z wyrazami do wyboru i uzupełnianie przerw w tekście bez wyrazów pomocniczych; pisania gdzie należy napisać maila i wybrać do napisania artykuł lub historię; i mówienia które odbywa się w parze z innym kandydatem, podczas którego należy odpowiadać na zadawane pytania, opisać obrazek, two [obcięto pozostałą część ciągu]&quot;;.
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Egzamin B1 składa się z czterech części:
+        ///Słuchania, gdzie są odpowiedzi wielokrotnego wyboru i wypełnianie przerw w tekstach.
+        ///
+        ///Czytania, gdzie są odpowiedzi wielokrotnego wyboru, łączenie opisów, uzpełnianie przerw w tekście z wyrazami do wyboru i uzupełnianie przerw w tekście bez wyrazów pomocniczych.
+        ///
+        ///Pisania gdzie należy napisać maila i wybrać do napisania artykuł lub historię.
+        ///
+        ///Mówienia które odbywa się w parze z innym kandydatem, podczas którego należy odpowiadać na zadawane pytania, opisać obra [obcięto pozostałą część ciągu]&quot;;.
         /// </summary>
         internal static string _3DescNote3 {
             get {
@@ -241,7 +258,14 @@ namespace JezykAngielski.Core.Services {
         }
         
         /// <summary>
-        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Egzamin B2 składa się z czterech części, słuchania gdzie są odpowiedzi wielokrotnego wyboru, dokańczanie zdania, łączenie dialogów z pytaniami; czytanie i zastosowanie języka angielskiego, w którym są pytania otwarte i zamknięte związane z gramatyką, i zwrotami; pisanie, gdzie trzeba napisać wypracowanie (rozprawkę) i wybrać i napisać inną formę wypowiedzi pisemnej; i mówienia które odbywa się w parze z innym kandydatem, podczas którego należy odpowiadać na zadane pytania, rozmawiać z innym kandydatem na te [obcięto pozostałą część ciągu]&quot;;.
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Egzamin B2 składa się z czterech części:
+        ///Słuchania gdzie są odpowiedzi wielokrotnego wyboru, dokańczanie zdania, łączenie dialogów z pytaniami.
+        ///
+        ///Czytania i zastosowania języka angielskiego, w którym są pytania otwarte i zamknięte związane z gramatyką, i zwrotami.
+        ///
+        ///Pisania, gdzie trzeba napisać wypracowanie (rozprawkę) i wybrać i napisać inną formę wypowiedzi pisemnej.
+        ///
+        ///Mówienia które odbywa się w parze z innym kandydatem, podczas którego należy odpowiadać na zadane pytania, rozmawiać z innym kandydat [obcięto pozostałą część ciągu]&quot;;.
         /// </summary>
         internal static string _4DescNote3 {
             get {
@@ -295,7 +319,14 @@ namespace JezykAngielski.Core.Services {
         }
         
         /// <summary>
-        /// Wyszukuje zlokalizowany ciąg podobny do ciągu .
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Egzamin C1 składa się z czterech części:
+        ///Słuchania gdzie są odpowiedzi wielokrotnego wyboru, dokańczanie zdania, łączenie dialogów z pytaniami.
+        ///
+        ///Czytania i zastosowania języka angielskiego, w którym są pytania otwarte i zamknięte związanie z gramatyką i zwrotami.
+        ///
+        ///Pisania, gdzie trzeba napisać wypracowanie (rozprawkę) i wybrać i napisać inną formę wypowiedzi pisemnej.
+        ///
+        ///Mówienia które odbywa się w parze z innym kandydatem, podczas którego należy odpowiadać na zadane pytania, rozmawiać z innym kandydat [obcięto pozostałą część ciągu]&quot;;.
         /// </summary>
         internal static string _5DescNote3 {
             get {
@@ -304,7 +335,7 @@ namespace JezykAngielski.Core.Services {
         }
         
         /// <summary>
-        /// Wyszukuje zlokalizowany ciąg podobny do ciągu O C1 Advanced:.
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu O C1 Advanced.
         /// </summary>
         internal static string _5Note1 {
             get {
@@ -349,7 +380,14 @@ namespace JezykAngielski.Core.Services {
         }
         
         /// <summary>
-        /// Wyszukuje zlokalizowany ciąg podobny do ciągu .
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Egzamin C2 składa się z czterech części:
+        ///Słuchania gdzie są odpowiedzi wielokrotnego wyboru, dokańczanie zdania, łączenie dialogów z pytaniami.
+        ///
+        ///Czytania i zastosowania języka angielskiego, w którym są pytania otwarte i zamknięte związanie z gramatyką i zwrotami.
+        ///
+        ///Pisania, gdzie trzeba napisać wypracowanie (rozprawkę) i wybrać inną formę wypowiedzi pisemnej.
+        ///
+        ///Mówienia które odbywa sięw parze z innym kandydatem , podczas którego należy odpowiadać na zadane pytania, rozmawiać z innym kandydatem na tema [obcięto pozostałą część ciągu]&quot;;.
         /// </summary>
         internal static string _6DescNote3 {
             get {
@@ -358,7 +396,7 @@ namespace JezykAngielski.Core.Services {
         }
         
         /// <summary>
-        /// Wyszukuje zlokalizowany ciąg podobny do ciągu O C2 Proficiency:.
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu O C2 Proficiency.
         /// </summary>
         internal static string _6Note1 {
             get {

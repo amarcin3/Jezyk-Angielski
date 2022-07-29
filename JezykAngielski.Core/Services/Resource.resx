@@ -126,7 +126,14 @@
     <comment>A1 Elementary - Podpisy pod Nagłówkiem 2</comment>
   </data>
   <data name="1DescNote3" xml:space="preserve">
-    <value>Egzamin A1 składa się z trzech części, słuchania, gdzie należy, w zależności od polecenia, połączyć odpowiedznie teksty z obrazkami, uzupełniać proste zdania lub wybierać pasujący obrazek; czytania połączonego z pisaniem, gdzie w zależności od polecenia można, uzupełniać proste zdania z pomocą obrazków, wybrać odpowiednią odpowiedź do pytania, uzupełnić historyjkę z pomocą obrazków i wybrać najlepszy do niej tytuł, uzupełnić tekst podanymi słowami, na podstawie historyjki uzupełnić zdania lub na podstawie obrazka uzupełnić zdania; i mówienia, podczas którego należy się przedstawić, odpowiadać na pytania dotyczące obrazków i na pytania zadane przez egzaminatora.</value>
+    <value>Egzamin A1 składa się z trzech części:
+Słuchania, gdzie należy, w zależności od polecenia, połączyć odpowiedznie teksty z obrazkami, uzupełniać proste zdania lub wybierać pasujący obrazek.
+
+Czytania połączonego z pisaniem, gdzie należy, uzupełniać luki w prostych zdaniach, wybrać odpowiednią odpowiedź do pytania, uzupełnić historyjkę i wybrać najlepszy do niej tytuł, uzupełnić tekst podanymi słowami lub uzupełnić zdania na podstawie tekstu.
+
+Mówienia, podczas którego należy się przedstawić, odpowiadać na pytania dotyczące obrazków i na pytania zadane przez egzaminatora.
+
+</value>
     <comment>A1 Elementary - Podpisy pod Nagłówkiem 3</comment>
   </data>
   <data name="1Note1" xml:space="preserve">
@@ -150,7 +157,14 @@
     <comment>A2 Key - Podpisy pod nagłówkiem 2</comment>
   </data>
   <data name="2DescNote3" xml:space="preserve">
-    <value>Egzamin A2 składa się z trzech części, słuchania, gdzie należy, w zależności od polecenia, połączyć odpowiedznie teksty z obrazkami, uzupełniać proste zdania lub wybierać pasujący obrazek; czytania połączonego z pisaniem, gdzie w zależności od polecenia można, uzupełniać proste zdania z pomocą podanych wyrazów, wybierać odpowiedzi do pytań, uzupełniać historyjkę z pomocą podanych słów, i wybrać najlepszy do niej tytuł, uzupełnić tekst podanymi słowami, na podstawie historyjki uzupełnić proste zdania lub napisać krótką historyjkę na podstawie obrazków; i mówienia, podczas którego należy się przedstawić, odpowiadać na pytania dotyczące obrazków, i na pytania zadane przez egzaminatora.</value>
+    <value>Egzamin A2 składa się z trzech części:
+Słuchania, gdzie należy, połączyć odpowiedznie teksty z obrazkami, uzupełniać proste zdania lub wybierać pasujący obrazek.
+
+Czytania połączonego z pisaniem, gdzie należy uzupełniać proste zdania z pomocą podanych wyrazów, wybierać odpowiedzi do pytań, uzupełniać tekst podanymi słowami, na podstawie historyjki uzupełnić proste zdania i napisać krótką historyjkę na podstawie obrazków.
+
+Mówienia, podczas którego należy się przedstawić, odpowiadać na pytania dotyczące obrazków, i na pytania zadane przez egzaminatora.
+
+</value>
     <comment>A2 Key - Podpisy pod nagłówkiem 3</comment>
   </data>
   <data name="2Note1" xml:space="preserve">
@@ -174,7 +188,16 @@
     <comment>B1 Preliminary - Podpisy pod nagłówkiem 2</comment>
   </data>
   <data name="3DescNote3" xml:space="preserve">
-    <value>Egzamin B1 składa się z czterech części, słuchania, gdzie są odpowiedzi wielokrotnego wyboru i wypełnianie przerw w tekstach; czytania, gdzie są odpowiedzi wielokrotnego wyboru, łączenie opisów, uzpełnianie przerw w tekście z wyrazami do wyboru i uzupełnianie przerw w tekście bez wyrazów pomocniczych; pisania gdzie należy napisać maila i wybrać do napisania artykuł lub historię; i mówienia które odbywa się w parze z innym kandydatem, podczas którego należy odpowiadać na zadawane pytania, opisać obrazek, tworzyć i reagować na sugestie z innym kandydatem, oraz rozmawiać z nim na zadany temat.</value>
+    <value>Egzamin B1 składa się z czterech części:
+Słuchania, gdzie są odpowiedzi wielokrotnego wyboru i wypełnianie przerw w tekstach.
+
+Czytania, gdzie są odpowiedzi wielokrotnego wyboru, łączenie opisów, uzpełnianie przerw w tekście z wyrazami do wyboru i uzupełnianie przerw w tekście bez wyrazów pomocniczych.
+
+Pisania gdzie należy napisać maila i wybrać do napisania artykuł lub historię.
+
+Mówienia które odbywa się w parze z innym kandydatem, podczas którego należy odpowiadać na zadawane pytania, opisać obrazek, tworzyć i reagować na sugestie z innym kandydatem, oraz rozmawiać z nim na zadany temat.
+
+</value>
     <comment>B1 Preliminary - Podpisy pod nagłówkiem 3</comment>
   </data>
   <data name="3Note1" xml:space="preserve">
@@ -198,7 +221,16 @@
     <comment>B2 First - Podpisy pod nagłówkiem 2</comment>
   </data>
   <data name="4DescNote3" xml:space="preserve">
-    <value>Egzamin B2 składa się z czterech części, słuchania gdzie są odpowiedzi wielokrotnego wyboru, dokańczanie zdania, łączenie dialogów z pytaniami; czytanie i zastosowanie języka angielskiego, w którym są pytania otwarte i zamknięte związane z gramatyką, i zwrotami; pisanie, gdzie trzeba napisać wypracowanie (rozprawkę) i wybrać i napisać inną formę wypowiedzi pisemnej; i mówienia które odbywa się w parze z innym kandydatem, podczas którego należy odpowiadać na zadane pytania, rozmawiać z innym kandydatem na temat obrazka, tekstu i poprzedniego zadania. </value>
+    <value>Egzamin B2 składa się z czterech części:
+Słuchania gdzie są odpowiedzi wielokrotnego wyboru, dokańczanie zdania, łączenie dialogów z pytaniami.
+
+Czytania i zastosowania języka angielskiego, w którym są pytania otwarte i zamknięte związane z gramatyką, i zwrotami.
+
+Pisania, gdzie trzeba napisać wypracowanie (rozprawkę) i wybrać i napisać inną formę wypowiedzi pisemnej.
+
+Mówienia które odbywa się w parze z innym kandydatem, podczas którego należy odpowiadać na zadane pytania, rozmawiać z innym kandydatem na temat obrazka, tekstu i poprzedniego zadania. 
+
+</value>
     <comment>B2 First - Podpisy pod nagłówkiem 3</comment>
   </data>
   <data name="4Note1" xml:space="preserve">
@@ -222,11 +254,20 @@
     <comment>C1 Advanced - Podpisy pod nagłówkiem 2</comment>
   </data>
   <data name="5DescNote3" xml:space="preserve">
-    <value />
+    <value>Egzamin C1 składa się z czterech części:
+Słuchania gdzie są odpowiedzi wielokrotnego wyboru, dokańczanie zdania, łączenie dialogów z pytaniami.
+
+Czytania i zastosowania języka angielskiego, w którym są pytania otwarte i zamknięte związanie z gramatyką i zwrotami.
+
+Pisania, gdzie trzeba napisać wypracowanie (rozprawkę) i wybrać i napisać inną formę wypowiedzi pisemnej.
+
+Mówienia które odbywa się w parze z innym kandydatem, podczas którego należy odpowiadać na zadane pytania, rozmawiać z innym kandydatem na temat obrazka, tekstu i poprzedniego zadania.
+
+</value>
     <comment>C1 Advanced - Podpisy pod nagłówkiem 3</comment>
   </data>
   <data name="5Note1" xml:space="preserve">
-    <value>O C1 Advanced:</value>
+    <value>O C1 Advanced</value>
     <comment>C1 Advanced - Nagłówek 1</comment>
   </data>
   <data name="5Note2" xml:space="preserve">
@@ -246,11 +287,20 @@
     <comment>C2 Proficiency - Podpisy pod nagłówkiem 2</comment>
   </data>
   <data name="6DescNote3" xml:space="preserve">
-    <value />
+    <value>Egzamin C2 składa się z czterech części:
+Słuchania gdzie są odpowiedzi wielokrotnego wyboru, dokańczanie zdania, łączenie dialogów z pytaniami.
+
+Czytania i zastosowania języka angielskiego, w którym są pytania otwarte i zamknięte związanie z gramatyką i zwrotami.
+
+Pisania, gdzie trzeba napisać wypracowanie (rozprawkę) i wybrać inną formę wypowiedzi pisemnej.
+
+Mówienia które odbywa sięw parze z innym kandydatem , podczas którego należy odpowiadać na zadane pytania, rozmawiać z innym kandydatem na temat obrazka, tekstu i poprzedniego zadania.
+
+</value>
     <comment>C2 Proficiency - Podpisy pod nagłówkiem 3</comment>
   </data>
   <data name="6Note1" xml:space="preserve">
-    <value>O C2 Proficiency:</value>
+    <value>O C2 Proficiency</value>
     <comment>C2 Proficiency  - Nagłówek 1</comment>
   </data>
   <data name="6Note2" xml:space="preserve">
